@@ -6,5 +6,7 @@ public class Main {
         String jirb = "Janis Irbe";
 
         System.out.println(jirb);
+        System.out.println("Sabine added this line!");
+
     }
 }
