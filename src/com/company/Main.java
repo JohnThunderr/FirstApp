@@ -9,5 +9,7 @@ public class Main {
         int z = 7;
         System.out.println(y+z);
         System.out.println(jirb + x);
+
+        System.out.println(jirb);
     }
 }
